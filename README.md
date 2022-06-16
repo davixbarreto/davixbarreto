@@ -38,4 +38,4 @@
    <a href = "mailto:daviist156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/davixbarreto/davixbarreto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/davixbarreto/davixbarretofirst/blob/output/github-contribution-grid-snake.svg)
